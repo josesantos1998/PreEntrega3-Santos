@@ -1,0 +1,18 @@
+.logo {
+	width: 10rem;
+}
+.fuentes {
+	font-size: 1.5rem;
+	padding-left: 2rem;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-size: 20px;
+	li {
+		&:hover {
+			background-color: rgb(161, 16, 16);
+		}
+	}
+}
+header {
+	border-bottom: 1px solid black;
+}
