@@ -1,3 +1,5 @@
+/*HEADER*/
+
 .logo {
   width: 10rem;
 }
@@ -16,6 +18,8 @@
 header {
   border-bottom: 1px solid black;
 }
+
+/*HERO*/
 
 .textoInstitucion {
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -89,8 +93,10 @@ body {
   background-color: beige;
 }
 
+/*FOOTER*/
+
 footer {
-  background-color: black;
+  background-color: azure;
   margin-left: 1px;
   margin-right: 1px;
 }
